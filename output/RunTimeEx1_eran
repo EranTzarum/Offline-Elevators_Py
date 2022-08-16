@@ -1,0 +1,32 @@
+
+B1 -
+CALLS A: average waiting time per call: 112.92,  unCompleted calls,0
+CALLS B: -------
+CALLS C: -------
+CALLS D: -------
+
+B2 -
+CALLS A: average waiting time per call: 56.32,  unCompleted calls,0
+CALLS B: -------
+CALLS C: -------
+CALLS D: -------
+
+B3 -
+CALLS A: average waiting time per call: 44.25,  unCompleted calls,0
+CALLS B: average waiting time per call: 485.03232672000235,  unCompleted calls,140
+CALLS C: average waiting time per call: 523.1403698249998,  unCompleted calls,65
+CALLS D: average waiting time per call: 491.4457387440023,  unCompleted calls,84
+
+B4 -
+CALLS A: average waiting time per call: 25.32,  unCompleted calls,0
+CALLS B: average waiting time per call: 527.6560992640032,  unCompleted calls,318
+CALLS C: average waiting time per call: 541.3339856200026,  unCompleted calls,84
+CALLS D: average waiting time per call: 551.7800208260078,  unCompleted calls,311
+
+B5 -
+CALLS A: average waiting time per call: 23.68,  unCompleted calls,0
+CALLS B: average waiting time per call: 228.65284284799887,  unCompleted calls,101
+CALLS C: average waiting time per call: 222.53918311499984,  unCompleted calls,43
+CALLS D: average waiting time per call: 170.57993200599992,  unCompleted calls,41
+
+
