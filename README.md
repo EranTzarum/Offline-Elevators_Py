@@ -97,3 +97,14 @@ For example: average waiting time per call: 112.92,  unCompleted calls,0 == 112.
 | 3 | 44.25/0  | 485.032/140 | 523.140/65 | 491.445/84  |
 | 4 | 25.32/0  | 527.656/318 | 541.333/84 | 551.780/311 |
 | 5 | 23.68/0  | 228.652/101 | 222.539/43 | 170.579/41  |
+
+
+
+
+
+This project has a change in the algorithms from our original project found in - LINKS:
+main git link: https://github.com/amitmelamed/Offline-Elevators-EX1 Documentation 
+
+PDF link: https://github.com/amitmelamed/Offline-Elevators-EX1/blob/main/Documentation.pdf
+
+But still the contribution of each of us is the same.
